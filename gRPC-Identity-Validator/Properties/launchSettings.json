@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "gRPC-Identity-Validator": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

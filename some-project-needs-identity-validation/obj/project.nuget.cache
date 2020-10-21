@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "/CuzGYcpJPRZ4aTeFUSnf96ymqD2FbP5V36Tg51KXYt75eqzf/NQhTInhT2sbXkWT0XEsj1rWVcQjxdzHPQQkg==",
+  "success": true,
+  "projectFilePath": "/Users/berkay.yalcin/RiderProjects/gRPC-Identity-Validator/some-project-needs-identity-validation/some-project-needs-identity-validation.csproj",
+  "expectedPackageFiles": [
+    "/Users/berkay.yalcin/.nuget/packages/google.protobuf/3.11.4/google.protobuf.3.11.4.nupkg.sha512",
+    "/Users/berkay.yalcin/.nuget/packages/grpc.core.api/2.27.0/grpc.core.api.2.27.0.nupkg.sha512",
+    "/Users/berkay.yalcin/.nuget/packages/grpc.net.client/2.28.0/grpc.net.client.2.28.0.nupkg.sha512",
+    "/Users/berkay.yalcin/.nuget/packages/grpc.net.common/2.28.0/grpc.net.common.2.28.0.nupkg.sha512",
+    "/Users/berkay.yalcin/.nuget/packages/grpc.tools/2.28.1/grpc.tools.2.28.1.nupkg.sha512",
+    "/Users/berkay.yalcin/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "/Users/berkay.yalcin/.nuget/packages/system.diagnostics.diagnosticsource/4.5.1/system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "/Users/berkay.yalcin/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

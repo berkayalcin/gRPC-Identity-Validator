@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPC-Identity-Validator", "gRPC-Identity-Validator\gRPC-Identity-Validator.csproj", "{8E3EBC00-1FF5-4B44-8442-EFFF57048F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "some-project-needs-identity-validation", "some-project-needs-identity-validation\some-project-needs-identity-validation.csproj", "{EFDA9588-FF83-4BEE-8B05-A9C5473D41EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3EBC00-1FF5-4B44-8442-EFFF57048F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3EBC00-1FF5-4B44-8442-EFFF57048F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3EBC00-1FF5-4B44-8442-EFFF57048F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3EBC00-1FF5-4B44-8442-EFFF57048F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDA9588-FF83-4BEE-8B05-A9C5473D41EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDA9588-FF83-4BEE-8B05-A9C5473D41EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDA9588-FF83-4BEE-8B05-A9C5473D41EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDA9588-FF83-4BEE-8B05-A9C5473D41EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

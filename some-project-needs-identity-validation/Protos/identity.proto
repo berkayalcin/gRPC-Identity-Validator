@@ -1,0 +1,16 @@
+syntax = "proto3";
+option csharp_namespace = "gRPC_Identity_Validator";
+package identity;
+
+service IdentityValidatorService{
+  rpc ValidateAsync(IdentityValidateRequest) returns (IdentityValidationResult); 
+}
+
+message IdentityValidateRequest{
+  string identityNumber = 3;
+}
+
+message IdentityValidationResult{
+  bool isSuccess = 1;
+  string message = 2;
+}
